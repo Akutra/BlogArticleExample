@@ -1,4 +1,7 @@
-﻿/// REST DB Access JS
+﻿///
+/// Akutra R.A> Cea
+
+/// REST DB Access JS
 /// Routines for threaded access to REST API interface
 /// --- JQuery version ---
 

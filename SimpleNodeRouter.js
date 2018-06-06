@@ -1,5 +1,9 @@
 //This will need a little revision to actually run, it is meant to be a basic overview
 
+///
+/// Example of a simple Node.js Server that could serve REST services
+/// Akutra R.A> Cea
+
 var http = require("http");
 var url = require('url');
 var fs = require('fs');
