@@ -1,0 +1,66 @@
+/* CSS Document */
+h1, h2, h3, h4, h5, h6, body {
+    font-family: Myriad Web Pro, Candara, Trebuchet MS, Calibri, Helvetica, sans-serif;
+}
+
+    h1 { font-size: 250%; }
+    h2 { font-size: 200%; }
+    A { color:#ffec89; }
+    A:visited { color:#e4a21c; }
+    body {
+        font-size: 100%; 
+        
+        color: white;
+        background-color: black;
+		 text-shadow: 2px 2px black;
+    }
+    img { border: 0px; }
+
+.divcontainer{
+	border: solid 1px black;
+	margin: 5px;
+	padding: 5px;
+	width: 98%;
+	background-color: rgba(62,62,62,0.50);
+}
+#endpage {
+    text-align: center;
+    font-size: 100%;
+    color: gold;
+    margin-right: auto; margin-left: auto;
+}
+
+    #footer_inline {
+	position: center;
+    width: auto;
+	border: 0px;
+
+    }
+    
+    #footer {
+	position: absolute; 
+    top: 750px; 
+    width: 100%;
+	border: 0px;
+    }
+
+    .maindisplay {
+        width: 900px;
+        border: 1px dotted black;
+        background-color: rgba(65, 65, 65, 0.65);
+        margin-right: auto; margin-left: auto;
+        
+    }
+
+    .center {
+        margin-right: auto; margin-left: auto;
+    }
+
+
+.article_content{
+	border: none; width: 98%; margin: 10px 50px 10px 10px;
+}
+
+.comment_content{
+	border: none; width: 98%; margin: 10px 50px 10px 10px;
+}
